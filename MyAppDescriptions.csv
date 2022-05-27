@@ -1,0 +1,33 @@
+package name,app name,F-droid page,app description
+de.chaosdorf.meteroid,meteroid,https://f-droid.org/repository/browse/?fdid=de.chaosdorf.meteroid&fdpage=32,"Mete is a system to have donations prepaid. You can create an account and deposit money. Later you can use your account balance to buy drinks and snacks.
+This app is a client for Mete servers."
+cc.rainwave.android,Rainwave,https://f-droid.org/repository/browse/?fdid=cc.rainwave.android&fdpage=46,"Listen to music on rainwave.cc, an icecast music station, via music players like com.android.music or net.sourceforge.servestream. You can also log in to vote and request tracks to be played."
+it.niedermann.owncloud.notes,Nextcloud Notes,https://f-droid.org/repository/browse/?fdid=it.niedermann.owncloud.notes&fdpage=41 ,"View and edit notes on Nextcloud.              
+
+?? Features
+
+* Multiple accounts ??
+* Works offline ??
+* Create, edit, share, search and delete notes ??
+* Share text and links as new note into the app ??
+* Toggling checkboxes in view mode ?
+* Mark notes as favorite ?
+* Bulk moving between accounts ??
+* Bulk delete ???
+* In-note search ??
+* Render Markdown ?
+* Context based formatting ??
+* Dark mode ??
+* Single note widget and note list widget ??
+* Translated in many languages ??"
+science.itaintrocket.pomfshare,Pomfshare,https://f-droid.org/repository/browse/?fdid=science.itaintrocket.pomfshare&fdpage=44,"Pomshare uses Android's built-in sharing menu to easily upload files to pomf.se, a free quality filehost. No timeouts, no logins. 50 MiB maximum. "
+com.iskrembilen.quasseldroid,Quasseldroid,"https://f-droid.org/repository/browse/?fdid=com.iskrembilen.quasseldroid&fdpage=46	","Chat comfortably. Everywhere.
+
+
+REQUIRES A QUASSEL CORE – DOES NOT WORK AS STANDALONE IRC CLIENT
+
+• Use IRC on the go – thanks to the Quassel core, you’ll never miss anything
+• Always have your entire chat history available – just scroll up to load older messages, the core keeps them for you
+• Be notified when someone messages you – even if you had no connection in the meantime
+
+If you are looking for the comfort you’re used to from modern chat apps, Quasseldroid is the best free android IRC client for you — you’ll get profile pictures, a beautiful UI based on Material Design, and all the features you love."

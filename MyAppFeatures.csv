@@ -1,0 +1,34 @@
+package name,app name,feature
+de.chaosdorf.meteroid,meteroid,have donations prepaid
+de.chaosdorf.meteroid,meteroid,create an account
+de.chaosdorf.meteroid,meteroid,deposit money
+de.chaosdorf.meteroid,meteroid,use your account balance to buy drinks and snacks
+de.chaosdorf.meteroid,meteroid,client for Mete servers
+cc.rainwave.android,Rainwave,Listen to music on rainwave.cc
+cc.rainwave.android,Rainwave,Log in to vote 
+cc.rainwave.android,Rainwave,request tracks to be played
+it.niedermann.owncloud.notes,Nextcloud Notes,View and edit notes
+it.niedermann.owncloud.notes,Nextcloud Notes,Multiple accounts
+it.niedermann.owncloud.notes,Nextcloud Notes,Works offline
+it.niedermann.owncloud.notes,Nextcloud Notes,"Create, edit, share, search and delete notes"
+it.niedermann.owncloud.notes,Nextcloud Notes,Share text and links as new note into the app
+it.niedermann.owncloud.notes,Nextcloud Notes,Toggling checkboxes in view mode
+it.niedermann.owncloud.notes,Nextcloud Notes,Mark notes as favorite
+it.niedermann.owncloud.notes,Nextcloud Notes,Bulk moving between accounts
+it.niedermann.owncloud.notes,Nextcloud Notes,Bulk delete
+it.niedermann.owncloud.notes,Nextcloud Notes,In-note search
+it.niedermann.owncloud.notes,Nextcloud Notes,Render Markdown
+it.niedermann.owncloud.notes,Nextcloud Notes,Context based formatting
+it.niedermann.owncloud.notes,Nextcloud Notes,Dark mode
+it.niedermann.owncloud.notes,Nextcloud Notes,Single note widget and note list widget
+it.niedermann.owncloud.notes,Nextcloud Notes,Translated in many languages
+science.itaintrocket.pomfshare,Pomfshare,upload files to pomf.se
+science.itaintrocket.pomfshare,Pomfshare,No timeouts
+science.itaintrocket.pomfshare,Pomfshare,no logins
+science.itaintrocket.pomfshare,Pomfshare,50 MiB maximum
+com.iskrembilen.quasseldroid,Quasseldroid,Chat comfortably
+com.iskrembilen.quasseldroid,Quasseldroid,REQUIRES A QUASSEL CORE
+com.iskrembilen.quasseldroid,Quasseldroid,Use IRC on the go 
+com.iskrembilen.quasseldroid,Quasseldroid,Always have your entire chat history available 
+com.iskrembilen.quasseldroid,Quasseldroid,Be notified when someone messages you 
+com.iskrembilen.quasseldroid,Quasseldroid,"Get profile pictures, a beautiful UI based on Material Design"
